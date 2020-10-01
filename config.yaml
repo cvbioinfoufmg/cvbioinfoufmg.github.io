@@ -1,5 +1,5 @@
 baseURL: https://cvbioinfoufmg.github.io/
-languageCode: pt_BR
+languageCode: pt-br
 title: Curso de Verão em Bioinformática da UFMG
 themesDir: themes/
 theme: villain
@@ -30,7 +30,7 @@ menu:
     weight: 1
   - identifier: ppg
     name: Pós-graduação em Bioinformática na UFMG
-    url: /program/
+    url: /graduate/
     weight: 2
   - identifier: inscricoes
     name: Inscrições
@@ -44,7 +44,6 @@ menu:
     name: Sobre nós
     url: /about/
     weight: 5
-
 
 # Needed for mermaid/katex shortcodes and Rmd
 markup:
