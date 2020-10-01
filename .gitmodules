@@ -1,0 +1,3 @@
+[submodule "themes/villain"]
+	path = themes/villain
+	url = git@github.com:luciorq/hugo-villain-theme.git
