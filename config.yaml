@@ -15,7 +15,8 @@ params:
     meta_description: "Bem-vindos ao Curso de Verão em Bioinformática da Universidade Federal de Minas Gerais. Nos sigam e fiquem de olho em todas as novidades."
     meta_og_title: "Curso de Verão em Bioinformática da UFMG"
     meta_og_url: https://cvbioinfoufmg.github.io
-    meta_og_image: https://raw.githubusercontent.com/cvbioinfoufmg/cvbioinfoufmg.github.io/main/static/header/cvbioinfoufmg-twitter-banner.png
+    meta_og_image: "https://raw.githubusercontent.com/cvbioinfoufmg/cvbioinfoufmg.github.io/main/static/header/cvbioinfoufmg-twitter-banner.png"
+    meta_og_type: website
     meta_twitter_card: summary_large_image
     meta_twitter_site: "@cvbioinfoufmg"
     meta_twitter_creator: "@luciorqueiroz"
