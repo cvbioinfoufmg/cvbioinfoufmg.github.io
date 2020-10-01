@@ -1,5 +1,5 @@
 baseURL: https://cvbioinfoufmg.github.io/
-languageCode: pt-br
+languageCode: pt_BR
 title: Curso de Verão em Bioinformática da UFMG
 themesDir: themes/
 theme: villain
@@ -15,7 +15,7 @@ params:
     meta_description: "Bem-vindos ao Curso de Verão em Bioinformática da Universidade Federal de Minas Gerais. Nos sigam e fiquem de olho em todas as novidades."
     meta_og_title: "Curso de Verão em Bioinformática da UFMG"
     meta_og_url: https://cvbioinfoufmg.github.io
-    meta_og_image: https://raw.githubusercontent.com/cvbioinfoufmg/cvbioinfoufmg.github.io/master/static/header/cvbioingoufmg-twitter-banner.png
+    meta_og_image: https://raw.githubusercontent.com/cvbioinfoufmg/cvbioinfoufmg.github.io/main/static/header/cvbioinfoufmg-twitter-banner.png
     meta_twitter_card: summary_large_image
     meta_twitter_site: "@cvbioinfoufmg"
     meta_twitter_creator: "@luciorqueiroz"

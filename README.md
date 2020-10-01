@@ -1,5 +1,10 @@
 # Curso de Verão em Bioinformática da Universidade Federal de Minas Gerais
 
+
+Para saber das novidades acompanhe nossa página no Instagram: <https://www.instagram.com/bioinfo_ufmg/>
+
+---
+
 To build and develop locally
 
 ```bash
