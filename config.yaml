@@ -30,7 +30,7 @@ params:
   manifest: "/manifest.json"
   safariPinnedTab: "/safari-pinned-tab.svg"
   googleWebmasterKey: "googleabaec53a168aad08"
-  themeColor: "#2f2f9e"
+  themeColor: "#673ab7"
 
   logos:
     jumbo: /header/logo.svg
