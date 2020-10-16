@@ -1,0 +1,30 @@
+---
+share:
+  - name: facebook
+    url: https://www.facebook.com/sharer.php?u=
+  - name: twitter
+    url: https://twitter.com/intent/tweet?text=
+
+follow:
+  - name: instagram
+    url: https://www.instagram.com/
+  - name: twitter
+    url: https://twitter.com/
+  - name: youtube
+    url: https://www.youtube.com/channel/g
+
+content:
+  - title: footer_about
+    links:
+      - name: PPG Bioinformática UFMG
+        url: http://www.pgbioinfo.icb.ufmg.br/
+        newTab: true
+      - nameKey: UFMG
+        url: https://ufmg.br/
+        newTab: true
+
+  - title: footer_previous_edition
+    links:
+      - name: CV Bioinformática UFMG 2020
+        url: https://cursobioinfoufmg.wixsite.com/cvbioinfo2020
+        newTab: true

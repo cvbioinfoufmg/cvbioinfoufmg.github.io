@@ -1,0 +1,47 @@
+---
+baseURL: https://cvbioinfoufmg.github.io/
+languageCode: pt-br
+title: Curso de Verão em Bioinformática da UFMG
+themesDir: themes/
+theme: devfest-theme-hugo
+publishDir: docs/
+
+enableEmoji: true
+enableRobotsTXT: true
+enableMissingTranslationPlaceholders: true
+
+googleAnalytics: "UA-108812139-3"
+
+params:
+  title: "Curso·de·Verão·em·Bioinformática·da·UFMG"
+  date: "2020-10-14"
+  description: "Bem-vindos ao Curso de Verão em Bioinformática da Universidade Federal de Minas Gerais. Nos sigam e fiquem de olho em todas as novidades."
+  images: "https://raw.githubusercontent.com/cvbioinfoufmg/cvbioinfoufmg.github.io/main/static/header/cvbioinfoufmg-twitter-banner.png"
+  email: "cursobioinfoufmg@gmail.com"
+  keywords: "bioinformatica, bioinfo, ufmg, curso, verao, workshop"
+  copyright: "Organizado com :heart: pela Comissão Organizadora do CV Bioinformática UFMG"
+  cfpUrl: "https://www.instagram.com/bioinfo_ufmg/"
+  subscriptionUrl: "https://forms.gle/xjuGBhNGS7CtMpRg9"
+  appleTouchIcon: "/apple-touch-icon.png"
+  favicon32: "/favicon-32x32.png"
+  favicon16: "/favicon-16x16.png"
+  manifest: "/manifest.json"
+  safariPinnedTab: "/safari-pinned-tab.svg"
+  googleWebmasterKey: "googleabaec53a168aad08"
+  themeColor: "#673ab7"
+
+  logos:
+    jumbo: /header/logo.svg
+    header: /header/logo.svg
+    footer: /header/logo-mobile.svg
+
+menu:
+  main:
+    - identifier: ppg
+      name: Pós-graduação em Bioinformática na UFMG
+      url: http://www.pgbioinfo.icb.ufmg.br/
+      weight: 200
+      external: true
+
+taxonomies:
+  tag: "tags"
