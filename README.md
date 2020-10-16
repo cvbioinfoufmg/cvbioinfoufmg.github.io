@@ -8,6 +8,8 @@ Para saber das novidades acompanhe nossa página no Instagram: <https://www.inst
 To build and develop locally
 
 ```bash
+git clone --recurse-submodules https://github.com/cvbioinfoufmg/cvbioinfoufmg.github.io.git
+
 hugo serve -D --disableFastRender
 ```
 
