@@ -19,7 +19,8 @@ content:
       - name: PPG Bioinformática UFMG
         url: http://www.pgbioinfo.icb.ufmg.br/
         newTab: true
-      - nameKey: UFMG
+      - name: UFMG
+        # nameKey: UFMG
         url: https://ufmg.br/
         newTab: true
 

@@ -1,8 +1,10 @@
 ---
 baseURL: https://cvbioinfoufmg.github.io/
+
 languageCode: pt-br
 title: Curso de Verão em Bioinformática da UFMG
 themesDir: themes/
+
 theme: devfest-theme-hugo
 publishDir: docs/
 
@@ -28,20 +30,50 @@ params:
   manifest: "/manifest.json"
   safariPinnedTab: "/safari-pinned-tab.svg"
   googleWebmasterKey: "googleabaec53a168aad08"
-  themeColor: "#673ab7"
+  themeColor: "#2f2f9e"
 
   logos:
     jumbo: /header/logo.svg
-    header: /header/logo.svg
-    footer: /header/logo-mobile.svg
+    header: /header/logo-mobile.svg
+    footer: /header/logo.svg
 
 menu:
   main:
+    - idenfier: schedule
+      name: Programação
+      url: https://cursobioinfoufmg.wixsite.com/workshop-cvbioinfo20/copia-programacao
+      weight: 2
+      external: true
+    
+    - identifier: speakers
+      name: Palestrantes
+      url: https://cursobioinfoufmg.wixsite.com/workshop-cvbioinfo20/palestrantes
+      weight: 3
+      external: true
+    
     - identifier: ppg
       name: Pós-graduação em Bioinformática na UFMG
       url: http://www.pgbioinfo.icb.ufmg.br/
       weight: 200
       external: true
+
+    - identifier: registration
+      name: Inscrições Abertas
+      url: https://forms.gle/xjuGBhNGS7CtMpRg9
+      weight: 1
+      external: true
+
+DefaultContentLanguage: pt
+
+languages:
+  pt:
+    weight: 1
+    languageName: "br"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 taxonomies:
   tag: "tags"
