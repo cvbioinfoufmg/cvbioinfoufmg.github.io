@@ -10,9 +10,7 @@ menu:
 
 ## 16 a 18 de novembro, 2020
 
-<a class="btn primary btn-lg" href="https://forms.gle/xjuGBhNGS7CtMpRg9">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Faça sua inscrição!
-</a>
+<a class="btn primary btn-lg" href="https://forms.gle/xjuGBhNGS7CtMpRg9"> <svg class="icon icon-"><use xlink:href="#cfp"></use></svg>Faça sua inscrição! </a>
 
 Nossas inscrições estão abertas!
 
@@ -20,7 +18,7 @@ Nossas inscrições estão abertas!
 
 <!-- ... -->
 
-{{% home-subscribe  class="primary" %}}
+{{% home-subscribe class="primary" %}}
 
 # Para mais novidades nos sigam no instagram
 
